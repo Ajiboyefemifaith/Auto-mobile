@@ -1,5 +1,5 @@
 # Auto-mobile
-Analysis using various machine learning models to predict Automobile prices
+Analysis using various machine learning models to predict Automobile prices.
 
 # Context
 This dataset consist of data From 1985 Ward's Automotive Yearbook. Here are the sources
